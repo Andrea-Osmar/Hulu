@@ -5,6 +5,8 @@ Next.js and tailwind css for practicing purpose.
 
 ## View it live
 
+[Hulu Clone](https://hulu-clone-website.netlify.app)
+
 ## Tech
 
 - React.js
